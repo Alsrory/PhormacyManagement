@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79602A82-8F2F-4100-B7CE-64155782BAA3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pharmcy</RootNamespace>
+    <AssemblyName>Pharmcy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="account.Designer.cs">
+      <DependentUpon>account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Addcategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Addcategories.Designer.cs">
+      <DependentUpon>Addcategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_client.Designer.cs">
+      <DependentUpon>add_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_emplyee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_emplyee.Designer.cs">
+      <DependentUpon>add_emplyee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_supplier.Designer.cs">
+      <DependentUpon>add_supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="catogree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="catogree.Designer.cs">
+      <DependentUpon>catogree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="client.Designer.cs">
+      <DependentUpon>client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="emplyees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emplyees.Designer.cs">
+      <DependentUpon>emplyees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pharmacyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>pharmacyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchasing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchasing.Designer.cs">
+      <DependentUpon>purchasing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report.Designer.cs">
+      <DependentUpon>report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sales.Designer.cs">
+      <DependentUpon>sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesandpro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesandpro.Designer.cs">
+      <DependentUpon>salesandpro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="seach_emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seach_emp.Designer.cs">
+      <DependentUpon>seach_emp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search_catogree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search_catogree.Designer.cs">
+      <DependentUpon>search_catogree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="search_client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search_client.Designer.cs">
+      <DependentUpon>search_client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="store.cs" />
+    <Compile Include="supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplier.Designer.cs">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updatacateg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updatacateg.Designer.cs">
+      <DependentUpon>updatacateg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updata_emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updata_emp.Designer.cs">
+      <DependentUpon>updata_emp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="account.resx">
+      <DependentUpon>account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Addcategories.resx">
+      <DependentUpon>Addcategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_client.resx">
+      <DependentUpon>add_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_emplyee.resx">
+      <DependentUpon>add_emplyee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_supplier.resx">
+      <DependentUpon>add_supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="catogree.resx">
+      <DependentUpon>catogree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="client.resx">
+      <DependentUpon>client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="emplyees.resx">
+      <DependentUpon>emplyees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="purchasing.resx">
+      <DependentUpon>purchasing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report.resx">
+      <DependentUpon>report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="sales.resx">
+      <DependentUpon>sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesandpro.resx">
+      <DependentUpon>salesandpro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="seach_emp.resx">
+      <DependentUpon>seach_emp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search_catogree.resx">
+      <DependentUpon>search_catogree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="search_client.resx">
+      <DependentUpon>search_client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier.resx">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updatacateg.resx">
+      <DependentUpon>updatacateg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updata_emp.resx">
+      <DependentUpon>updata_emp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="pharmacyDataSet.xsc">
+      <DependentUpon>pharmacyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="pharmacyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>pharmacyDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="pharmacyDataSet.xss">
+      <DependentUpon>pharmacyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6903.png_860.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ف.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ق.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pharmacy.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

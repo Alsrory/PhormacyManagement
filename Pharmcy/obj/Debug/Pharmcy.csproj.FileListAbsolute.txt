@@ -1,0 +1,96 @@
+D:\visual studio document\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe.config
+D:\visual studio document\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe
+D:\visual studio document\Pharmcy\Pharmcy\bin\Debug\Pharmcy.pdb
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Form1.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.main.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Properties.Resources.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.csproj.GenerateResource.Cache
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.exe
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.pdb
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.emplyees.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.catogree.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.client.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.salesandpro.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.supplier.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.csprojResolveAssemblyReference.cache
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.accouent.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_client.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_emplyee.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_supplier.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.purchasing.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.sales.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.search_catogree.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.search_client.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Addcategories.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.updatacateg.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.seach_emp.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.updata_emp.resources
+D:\visual studio document\Pharmcy\Pharmcy\bin\Debug\pharmacy.accdb
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Report.resources
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\RdlCompile.cache
+D:\visual studio document\Pharmcy\Pharmcy\obj\Debug\RdlCompile.compiled
+H:\سي شارب\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe.config
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.exe
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.pdb
+H:\سي شارب\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe
+H:\سي شارب\Pharmcy\Pharmcy\bin\Debug\Pharmcy.pdb
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.csprojResolveAssemblyReference.cache
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.accouent.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Addcategories.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_client.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_emplyee.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_supplier.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.catogree.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.client.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.emplyees.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Form1.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.main.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Properties.Resources.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.purchasing.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.sales.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.salesandpro.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.seach_emp.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.search_catogree.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.search_client.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.supplier.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.updatacateg.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.updata_emp.resources
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.csproj.GenerateResource.Cache
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\RdlCompile.cache
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\RdlCompile.compiled
+H:\سي شارب\Pharmcy\Pharmcy\bin\Debug\pharmacy.accdb
+H:\سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.report.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe.config
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.exe
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.pdb
+D:\مشروع سي شارب\Pharmcy\Pharmcy\bin\Debug\pharmacy.accdb
+D:\مشروع سي شارب\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe
+D:\مشروع سي شارب\Pharmcy\Pharmcy\bin\Debug\Pharmcy.pdb
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.csprojResolveAssemblyReference.cache
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.accouent.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Addcategories.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_client.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_emplyee.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.add_supplier.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.catogree.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.client.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.emplyees.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Form1.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.main.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.Properties.Resources.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.purchasing.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.report.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.sales.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.salesandpro.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.seach_emp.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.search_catogree.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.search_client.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.supplier.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.updatacateg.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.updata_emp.resources
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\Pharmcy.csproj.GenerateResource.Cache
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\RdlCompile.cache
+D:\مشروع سي شارب\Pharmcy\Pharmcy\obj\Debug\RdlCompile.compiled
+D:\وجدي +امجد  It3\Pharmcy\Pharmcy\bin\Debug\Pharmcy.exe.config
+D:\وجدي +امجد  It3\Pharmcy\Pharmcy\obj\Debug\Pharmcy.exe
+D:\وجدي +امجد  It3\Pharmcy\Pharmcy\obj\Debug\Pharmcy.pdb
